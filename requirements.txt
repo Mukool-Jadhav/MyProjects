@@ -1,0 +1,6 @@
+torch 
+transformers
+accelerate 
+bitsandbytes
+sentence-transformers
+flash_attn
